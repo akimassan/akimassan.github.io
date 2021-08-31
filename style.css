@@ -67,6 +67,7 @@ h1 {
 }
 
 h2 {
+  margin-top: 50px;
   text-decoration: underline 5px;
   text-decoration-color: darkcyan;
 }
