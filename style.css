@@ -12,7 +12,7 @@
 }
 
 body {
-  background-image: url(../image/back-image.jpg); 
+  background-image: url(back-image.jpg); 
    background-repeat: no-repeat;
   background-size: contain;
   background-position: top center;
