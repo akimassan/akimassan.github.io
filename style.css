@@ -12,7 +12,7 @@
 }
 
 body {
-  background-image: url(https://github.com/akimassan/akimassan.github.io/blob/main/back-image.jpg?raw=true); 
+  background-image: url(back-image.jpg); 
    background-repeat: no-repeat;
   background-size: contain;
   background-position: top center;
